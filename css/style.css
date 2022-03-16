@@ -1,0 +1,22 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+/* search box style */
+.search-box {
+    height: 30px;
+    width: 250px;
+    border: 1px solid #d3d3d3;
+    border-radius: 50px;
+}
+.search {
+  border: 1px solid #d3d3d3;
+  border: none;
+  border-radius: 50px;
+  outline: none;
+}
+.search-box .fa-solid {
+    padding-left: 5px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    color: #d3d3d3;
+}
