@@ -3,10 +3,10 @@
 
 /* search box style */
 .search-box {
-    height: 30px;
-    width: 250px;
-    border: 1px solid #d3d3d3;
-    border-radius: 50px;
+  height: 30px;
+  width: 250px;
+  border: 1px solid #d3d3d3;
+  border-radius: 50px;
 }
 .search {
   border: 1px solid #d3d3d3;
@@ -15,8 +15,23 @@
   outline: none;
 }
 .search-box .fa-solid {
-    padding-left: 5px;
-    padding-bottom: 20px;
-    font-size: 15px;
-    color: #d3d3d3;
+  padding-left: 5px;
+  padding-bottom: 20px;
+  font-size: 15px;
+  color: #d3d3d3;
+}
+
+.mail {
+  margin-left: -25%;
+  border-left: 2px solid gray;
+  height: 500px;
+}
+hr {
+  border: 1px solid gray;
+}
+.mail-1 {
+  width: 100%;
+}
+.fs {
+  font-size: 12px;
 }
